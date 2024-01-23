@@ -2,6 +2,8 @@
 
 Para iniciar a aplicação, baixe o Docker para desktop [nesse link](https://www.docker.com/products/docker-desktop/).
 
+Não esqueça de fornecer as credências do banco de dados nas variáveis de ambiente (arquivo .env)
+
 Depois use o seguinte comando no console:
 - `docker-compose up -d --build`
 - `docker exec setup-php composer install`
