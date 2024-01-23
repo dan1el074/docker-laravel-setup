@@ -4,8 +4,8 @@ Para iniciar a aplicação, baixe o Docker para desktop [nesse link](https://www
 
 Depois use o seguinte comando no console:
 - `docker-compose up -d --build`
-- `docker exec setup-php php artisan config:cache`
 - `docker exec setup-php composer install`
+- `docker exec setup-php php artisan config:cache`
 
 Para testar o banco escreva:
 - `docker exec setup-php php artisan migrate`
