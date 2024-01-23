@@ -14,9 +14,4 @@ Para testar o banco escreva:
 
 Para acessar o projeto, basta entrar em [localhost:8080]()
 
-Para acessar o phpMyAdmin, basta entrar em [localhost:8888]() com as credências:
-- usuario: `user`
-- senha: `password`
-
-
-Todos esses passos foram extraídos desse [video](https://www.youtube.com/watch?v=E4-IfMSZCVc&ab_channel=Jo%C3%A3oLucasXavier)!
+Para acessar o phpMyAdmin, basta entrar em [localhost:8888]()
